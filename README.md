@@ -4,6 +4,7 @@ Thanks for coming!
 My name is HyunJoo,Park.
 
 🌱 I'm interested in Flutter now.
+🤔 And studying js and Frontend stacks.
 
 
 
